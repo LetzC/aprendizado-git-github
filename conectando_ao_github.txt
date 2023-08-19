@@ -1,0 +1,10 @@
+Você deve criar uma conta no github e gerar um token para usar no terminal.
+No token defina as permissões e o tempo de expiração.
+
+Comandos:
+git init // Iniciando o git
+git clone urlDoProjeto // Clona o projeto
+git add README.md // Adiciona na área de seleção o arquivo que você define a frente do add
+git commit -m 'Mensagem do commit'
+git remote add origin url // 'Linkar' projeto local ao github
+git push origin master // Envia mudanças no gitHub para a branch master

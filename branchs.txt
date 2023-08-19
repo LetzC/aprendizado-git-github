@@ -1,0 +1,3 @@
+O que são branchs?
+- Branchs (ramos) servem para desenvolvermos features isoladas
+- É possível misturar as branchs usando o comando merge

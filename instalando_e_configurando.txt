@@ -1,0 +1,15 @@
+Instalando o git
+- Acesse o site oficial do Git e procure pela opção de download.
+
+- Escolha a versão compatível com o seu sistema operacional e faça o download.
+
+- Após o download, execute o instalador e siga as instruções do assistente de instalação.
+
+Configurando o git
+- Abra o terminal ou prompt de comando.
+
+- Digite o comando "git config --global user.name SeuNome" para configurar o seu nome de usuário.
+
+- Em seguida, digite o comando "git config --global user.email SeuEmail" para configurar o seu endereço de e-mail.
+
+Se tiver alguma dificuldade com o git ou github recomendo pesquisar vídeos ensinando como utilizá-los!

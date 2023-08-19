@@ -1,3 +1,10 @@
 O que são branchs?
 - Branchs (ramos) servem para desenvolvermos features isoladas
 - É possível misturar as branchs usando o comando merge
+
+Alguns comandos:
+git branch // Mostra as branchs do projeto
+git branch nomeDaBranch // Criar branch
+git checkout nomeDaBranch // Abrir uma branch
+git branch -D nomeDaBranch // Deleta a branch
+git checkout -b nomeDaBranch // Cria a branch e já abre ela
